@@ -1,8 +1,4 @@
 Hello World
 Goodbye ... come back soon
-<<<<<<< HEAD
 See you later We miss you alligator
-=======
-See you later alligator
->>>>>>> cae1bf30093ed1d4319b95c44956b13353e02a45
 Welcome back! :)
